@@ -1,2 +1,2 @@
 # Productivity-Dashboard
-A project for more productive work:
+A project for more productive work.
